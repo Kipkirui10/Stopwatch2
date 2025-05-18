@@ -1,0 +1,18 @@
+.stopwatch {
+  text-align: center;
+  font-family: sans-serif;
+}
+
+#display {
+  font-size: 3em;
+  margin-bottom: 20px;
+}
+
+.buttons button {
+  font-size: 1.2em;
+  padding: 10px 20px;
+  margin: 0 10px;
+  border: none;
+  background-color: #eee;
+  cursor: pointer;
+}
