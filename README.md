@@ -1,1 +1,1 @@
-# Stopwatch2
+In this project, utilised three languages; Javascript, CSS and HTML. It is more sophisticated than the other stopwatch project i used HTML and Javascript alone. CSS gives elegance and decency. # Stopwatch2
